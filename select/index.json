@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ジュビリー (M@STER VERSION)",
+  "base_artist": "高垣楓 (CV: 早見沙織)",
+  "createdAt": "2025-12-12T21:17:57.044772Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ジュビリー",
+      "artist": "livetune feat. Miku Hatsune",
+      "has_synced": false,
+      "path": "select/01_ジュビリー_livetune_feat._Miku_Hatsune.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ジュビリー",
+      "artist": "livetune/Hatsune Miku",
+      "has_synced": false,
+      "path": "select/02_ジュビリー_livetune_Hatsune_Miku.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ジュビリー",
+      "artist": "livetune feat. Hatsune Miku",
+      "has_synced": false,
+      "path": "select/03_ジュビリー_livetune_feat._Hatsune_Miku.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ジュビリー - M@STER VERSION",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/04_ジュビリー_-_M@STER_VERSION_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ジュビリー",
+      "artist": "livetune",
+      "has_synced": false,
+      "path": "select/05_ジュビリー_livetune.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ジュビリー",
+      "artist": "livetune feat. Hatsune, Miku",
+      "has_synced": false,
+      "path": "select/06_ジュビリー_livetune_feat._Hatsune,_Miku.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ジュビリー Jubilee Gemischt Von Dietz",
+      "artist": "Quruli",
+      "has_synced": true,
+      "path": "select/07_ジュビリー_Jubilee_Gemischt_Von_Dietz_Quruli.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ジュビリー Jubilee Gemischt Von Dietz",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/08_ジュビリー_Jubilee_Gemischt_Von_Dietz_くるり.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jubilee (ft. Hatsune Miku) [ジュビリー (ft. 初音ミク)]",
+      "artist": "livetune",
+      "has_synced": true,
+      "path": "select/09_Jubilee_(ft._Hatsune_Miku)_[ジュビリー_(ft._初音ミク)]_livetune.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジュビリー (M@STER VERSION) 高垣楓ソロ・リミックス",
+      "artist": "高垣楓 (早見沙織)",
+      "has_synced": false,
+      "path": "select/pl_01_ジュビリー_(M@STER_VERSION)_高垣楓ソロ・リミックス_高垣楓_(早見沙織).txt"
+    }
+  ]
+}
